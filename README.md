@@ -1,2 +1,2 @@
 # Tese
-Trabalho de fim de curso, de Maryvane
+Trabalho de fim de curso, de Alcina e Maryvane
