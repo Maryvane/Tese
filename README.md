@@ -22,3 +22,7 @@
 
 # Para Baixar o codigo fonte
 Aceder ao repositório do projecto pelo link https://github.com/Maryvane/Tese-Angelina-e-Marivany, configurar o ambiente em seu computador local, com as ferramentas apresentadas e suas respectivas versões.
+
+# Preview
+
+![Tela de Login](login.png) ![Tela Inicial](homeM.png) ![Tela de Cadastro](cad.png) ![Tela de oesquisa](pesq.png) 
